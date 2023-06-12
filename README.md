@@ -43,3 +43,9 @@ h3 align="left">Idiomas y herramientas:</h3>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jose15m&show_icons=true&locale=en" alt="jose15m" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose15m&" alt="jose15m" /></p>
+
+
+https://github-profile-trophy.vercel.app/?username=jose15m-ma&theme=buddhism
+
+
+
