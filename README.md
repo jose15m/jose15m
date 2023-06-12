@@ -46,6 +46,3 @@ h3 align="left">Idiomas y herramientas:</h3>
 
 
 https://github-profile-trophy.vercel.app/?username=jose15m-ma&theme=buddhism
-
-
-
