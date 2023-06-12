@@ -45,4 +45,4 @@ h3 align="left">Idiomas y herramientas:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose15m&" alt="jose15m" /></p>
 
 
-https://github-profile-trophy.vercel.app/?username=jose15m-ma&theme=buddhism
+[![trophy](https://github-profile-trophy.vercel.app/?username=jose15m-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
